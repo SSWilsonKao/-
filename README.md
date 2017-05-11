@@ -1,2 +1,2 @@
 # misc
-miscellaneous
+這是我的雜物區，內容除非有說明，不然全部以 CC-By 4.0 釋出
