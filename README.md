@@ -21,7 +21,7 @@
 ---- 
 【例一】
 作者欄如果輸入：
-`Conrad, Peter`
-`Schneider, Joseph W.`
+	Conrad, Peter
+	Schneider, Joseph W.
 結果會變成「Conrad, Peter and Joseph W. Schneider, 1980.」
 但是中文作品只能輸入 `蔡勇美、廖培珊、林南` 才能顯示出希望的結果，即是「蔡勇美、廖培珊、林南，2007。」
