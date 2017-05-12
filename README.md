@@ -5,7 +5,7 @@
 ## 更新：
 1. 把 Book 那邊修正成可以直接顯示 translator，不獨立出一種 reference type 了（book trans.）。（20170511）
 2. 修正了 Conference Proceedings（英文）的顯示狀態。（20170512）
-3. 把 Book\_Chi trans. 整合進去 Book\_Chi
+3. 把 Book\_Chi trans. 整合進去 Book\_Chi。（20170512）
 
 ## 說明：
 1. 其他語言翻譯成中文的書目，請記得在 Book\_Chi 裡面，把 Author (Original), Year (Original), Title (Original), Place Published (Original) 跟 Publisher (Original) 等資訊填上去。
