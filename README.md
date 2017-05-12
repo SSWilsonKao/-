@@ -3,8 +3,8 @@
 這個模板僅供參考，文責不負。
 
 更新：
-1. 把 Book 那邊修正成可以直接顯示 translator，不獨立出一種 reference type 了（book trans.）。（20170512）
-2. 修正了 Conference Proceedings（英文）的顯示狀態。
+1. 把 Book 那邊修正成可以直接顯示 translator，不獨立出一種 reference type 了（book trans.）。（20170511）
+2. 修正了 Conference Proceedings（英文）的顯示狀態。（20170512）
 
 說明：
 1. 翻譯成中文的書目（Book\_Chi trans.）請記得把 Author, Year 等資訊，跟 Translated Author（譯者）, Trans. Year（譯本出版年代）之類的地方分開填寫。但如果是其他語言翻譯成英文的書目，就直接多填一個 Translator 就好，譯本出版年代免填（參考 ASA 的格式）。
