@@ -5,9 +5,10 @@
 ## 更新：
 1. 把 Book 那邊修正成可以直接顯示 translator，不獨立出一種 reference type 了（book trans.）。（20170511）
 2. 修正了 Conference Proceedings（英文）的顯示狀態。（20170512）
+3. 把 Book\_Chi trans. 整合進去 Book\_Chi
 
 ## 說明：
-1. 翻譯成中文的書目（Book\_Chi trans.）請記得把 Author, Year 等資訊，跟 Translated Author（譯者）, Trans. Year（譯本出版年代）之類的地方分開填寫。但如果是其他語言翻譯成英文的書目，就直接多填一個 Translator 就好，譯本出版年代免填（參考 ASA 的格式）。
+1. 其他語言翻譯成中文的書目，請記得在 Book\_Chi 裡面，把 Author (Original), Year (Original), Title (Original), Place Published (Original) 跟 Publisher (Original) 等資訊填上去。
 2. 我只就[《台灣社會學》官網上〈論文撰寫體例〉](http://www.ios.sinica.edu.tw/journal/ts-32/32-submitnote.pdf)提過的範例測試。至於其他的案例我就不管了。
 3. 對於會用 Maps, Podcast 跟 Standard 等種類的 references 的人，感到非常抱歉。我把它改掉了。
 
